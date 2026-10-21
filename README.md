@@ -32,6 +32,10 @@ Java 后端开发 / AI Agent 探索者 / Minecraft 服务端插件作者。
 
 ## 📊 GitHub 统计
 
+<details>
+<summary>点击展开 / 收起</summary>
+<br>
+
 <p>
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=codeNoob2281&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" alt="GitHub Stats"/>
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=codeNoob2281&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top Languages"/>
@@ -41,6 +45,8 @@ Java 后端开发 / AI Agent 探索者 / Minecraft 服务端插件作者。
   <img src="https://streak-stats.demolab.com/?user=codeNoob2281&hide_border=true&theme=transparent" alt="GitHub Streak"/>
 </p>
 
+</details>
+
 ---
 
 ## 📫 联系我
@@ -48,7 +54,6 @@ Java 后端开发 / AI Agent 探索者 / Minecraft 服务端插件作者。
 - 🌐 博客：<https://blog.floydzero.cloud>
 - 📺 B 站：<https://space.bilibili.com/38375370>
 - 📮 邮箱：<2281461058@qq.com>
-- 🐧 QQ：`2281461058`
 - 💬 交流：欢迎在任意仓库提 Issue / PR，尤其是 Java + AI、Minecraft 插件方向
 - ☕ 如果你的项目也用得上，Star 会让我更有动力继续更新 ✨
 
