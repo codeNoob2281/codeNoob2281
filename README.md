@@ -49,6 +49,12 @@ I like to get new things actually running: from LLM integration in the Spring ec
 
 </details>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codeNoob2281/codeNoob2281/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codeNoob2281/codeNoob2281/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/codeNoob2281/codeNoob2281/output/github-contribution-grid-snake.svg"/>
+</picture>
+
 ---
 
 ## 📫 Get in Touch

@@ -49,6 +49,12 @@ Java 后端开发 / AI Agent 探索者 / Minecraft 服务端插件作者。
 
 </details>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codeNoob2281/codeNoob2281/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codeNoob2281/codeNoob2281/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/codeNoob2281/codeNoob2281/output/github-contribution-grid-snake.svg"/>
+</picture>
+
 ---
 
 ## 📫 联系我
