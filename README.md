@@ -44,6 +44,10 @@ I like to get new things actually running: from LLM integration in the Spring ec
   <a href="https://github.com/ChaosSurvivalProject/CustomDeathMessage"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ChaosSurvivalProject&repo=CustomDeathMessage&hide_border=true&theme=transparent&description_lines_count=3" alt="CustomDeathMessage"/></a>
 </p>
 
+<p align="left">
+  <a href="https://github.com/codeNoob2281/PlayerShelter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=codeNoob2281&repo=PlayerShelter&hide_border=true&theme=transparent&description_lines_count=3" alt="PlayerShelter"/></a>
+</p>
+
 ---
 
 ## 📊 GitHub Stats

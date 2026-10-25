@@ -44,6 +44,10 @@ Java 后端开发 / AI Agent 探索者 / Minecraft 服务端插件作者。
   <a href="https://github.com/ChaosSurvivalProject/CustomDeathMessage"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ChaosSurvivalProject&repo=CustomDeathMessage&hide_border=true&theme=transparent&description_lines_count=3" alt="CustomDeathMessage"/></a>
 </p>
 
+<p align="left">
+  <a href="https://github.com/codeNoob2281/PlayerShelter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=codeNoob2281&repo=PlayerShelter&hide_border=true&theme=transparent&description_lines_count=3" alt="PlayerShelter"/></a>
+</p>
+
 ---
 
 ## 📊 GitHub 统计
