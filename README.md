@@ -32,6 +32,20 @@ I like to get new things actually running: from LLM integration in the Spring ec
 
 ---
 
+## 🚧 Projects in Progress
+
+<p align="left">
+  <a href="https://github.com/ChaosSurvivalProject/InfoHUD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ChaosSurvivalProject&repo=InfoHUD&hide_border=true&theme=transparent&description_lines_count=3" alt="InfoHUD"/></a>
+  <a href="https://github.com/codeNoob2281/solon-ai-example"><img src="https://github-readme-stats.vercel.app/api/pin/?username=codeNoob2281&repo=solon-ai-example&hide_border=true&theme=transparent&description_lines_count=3" alt="solon-ai-example"/></a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/codeNoob2281/Floyd-Backpack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=codeNoob2281&repo=Floyd-Backpack&hide_border=true&theme=transparent&description_lines_count=3" alt="Floyd-Backpack"/></a>
+  <a href="https://github.com/ChaosSurvivalProject/CustomDeathMessage"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ChaosSurvivalProject&repo=CustomDeathMessage&hide_border=true&theme=transparent&description_lines_count=3" alt="CustomDeathMessage"/></a>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <details>
