@@ -9,7 +9,7 @@ Java 后端开发 / AI Agent 探索者 / Minecraft 服务端插件作者。
 
 <p>
   <a href="https://github.com/codeNoob2281"><img src="https://img.shields.io/badge/GitHub-codeNoob2281-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://blog.floydzero.cloud"><img src="https://img.shields.io/badge/Blog-floydzero.cloud-0ea5e9?style=flat-square&logo=rss&logoColor=white" alt="Blog"/></a>
+  <a href="https://floyd-blog.xt91tv.shop"><img src="https://img.shields.io/badge/Blog-floyd-blog.xt91tv.shop-0ea5e9?style=flat-square&logo=rss&logoColor=white" alt="Blog"/></a>
   <a href="https://space.bilibili.com/38375370"><img src="https://img.shields.io/badge/Bilibili-Floyd-FB7299?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili"/></a>
   <img src="https://img.shields.io/badge/Location-China-ef4444?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
@@ -78,7 +78,7 @@ Java 后端开发 / AI Agent 探索者 / Minecraft 服务端插件作者。
 
 ## 📫 联系我
 
-- 🌐 博客：<https://blog.floydzero.cloud>
+- 🌐 博客：<https://floyd-blog.xt91tv.shop>
 - 📺 B 站：<https://space.bilibili.com/38375370>
 - 📮 邮箱：<2281461058@qq.com>
 - 💬 交流：欢迎在任意仓库提 Issue / PR，尤其是 Java + AI、Minecraft 插件方向

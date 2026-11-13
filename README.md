@@ -9,7 +9,7 @@ I like to get new things actually running: from LLM integration in the Spring ec
 
 <p>
   <a href="https://github.com/codeNoob2281"><img src="https://img.shields.io/badge/GitHub-codeNoob2281-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://blog.floydzero.cloud"><img src="https://img.shields.io/badge/Blog-floydzero.cloud-0ea5e9?style=flat-square&logo=rss&logoColor=white" alt="Blog"/></a>
+  <a href="https://floyd-blog.xt91tv.shop"><img src="https://img.shields.io/badge/Blog-floyd-blog.xt91tv.shop-0ea5e9?style=flat-square&logo=rss&logoColor=white" alt="Blog"/></a>
   <a href="https://space.bilibili.com/38375370"><img src="https://img.shields.io/badge/Bilibili-Floyd-FB7299?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili"/></a>
   <img src="https://img.shields.io/badge/Location-China-ef4444?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
@@ -78,7 +78,7 @@ I like to get new things actually running: from LLM integration in the Spring ec
 
 ## 📫 Get in Touch
 
-- 🌐 Blog: <https://blog.floydzero.cloud>
+- 🌐 Blog: <https://floyd-blog.xt91tv.shop>
 - 📺 Bilibili: <https://space.bilibili.com/38375370>
 - 📮 Email: <2281461058@qq.com>
 - 💬 Say hi: feel free to open an Issue / PR in any of my repos — Java + AI and Minecraft plugin topics especially welcome
